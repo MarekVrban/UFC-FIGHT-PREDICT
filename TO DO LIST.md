@@ -3,5 +3,5 @@
 2. Alternative model - RNN
 3. Choose and tune model
 4. Aplication for user interaction
-5. Fighter analysis + graph + photo(?)for input
+5. Fighter analysis + graph + photo(?)for output
 6. Presentation of partial progress of project 
